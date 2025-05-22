@@ -1,4 +1,4 @@
-## Hi there 👋
+pip install python-telegram-bot requests## Hi there 👋
 
 <!--
 **Popifa/Popifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
